@@ -45,15 +45,15 @@
 ---
 
 ## 🎓 Education & Training
-- **건국대학교 컴퓨터공학부** 학사 (2018.03 ~ 2025.02) :contentReference[oaicite:18]{index=18}
-- **ESG 청년 취업역량 강화·일경험 지원** (㈜엘리스 플랫폼팀, 2023.07 ~ 2023.09) :contentReference[oaicite:19]{index=19}
-- **AIVLE SCHOOL AI 트랙** (KT, 2024.09 ~ 2025.02) :contentReference[oaicite:20]{index=20}
-- **유데미 러닝크루 리더** (Spring Boot, 2025.02 ~ 2025.04) :contentReference[oaicite:21]{index=21}
-- **지능정보 SW 아카데미** (AI, 고려대학교, 2025.03 ~ 2025.06) :contentReference[oaicite:22]{index=22}
+- **건국대학교 컴퓨터공학부** 학사 (2018.03 ~ 2025.02)
+- **ESG 청년 취업역량 강화·일경험 지원** (㈜엘리스 플랫폼팀, 2023.07 ~ 2023.09)
+- **AIVLE SCHOOL AI 트랙** (KT, 2024.09 ~ 2025.02)
+- **유데미 러닝크루 리더** (Spring Boot, 2025.02 ~ 2025.04)
+- **지능정보 SW 아카데미** (AI, 고려대학교, 2025.03 ~ 2025.06)
 
 ---
 
 ## 📫 Contact
-- **Email**: xoo0608@naver.com :contentReference[oaicite:23]{index=23}  
-- **GitHub**: [ChaneHaDa](https://github.com/ChaneHaDa) :contentReference[oaicite:24]{index=24}  
-- **Blog**: [velog @chane_ha_da](https://velog.io/@chane_ha_da) :contentReference[oaicite:25]{index=25}  
+- **Email**: xoo0608@naver.com
+- **GitHub**: [ChaneHaDa](https://github.com/ChaneHaDa)
+- **Blog**: [velog @chane_ha_da](https://velog.io/@chane_ha_da)
